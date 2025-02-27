@@ -34,7 +34,7 @@ product-gallery/
 ```
 
 ## Screenshots 📸
-(Add screenshots here if needed)
+![image](https://github.com/user-attachments/assets/bee09a58-8153-4f7d-9e6c-1182dd9d0419)
 
 ## Contributing 🤝
 Feel free to fork this repository and contribute! Pull requests are welcome.
